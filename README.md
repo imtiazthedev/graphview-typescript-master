@@ -1,7 +1,7 @@
 # GraphView for TypeScript
 
-[![Tests](https://github.com/rodydavis/graphview-typescript/actions/workflows/tests.yml/badge.svg)](https://github.com/rodydavis/graphview-typescript/actions/workflows/tests.yml)
-[![Demo](https://github.com/rodydavis/graphview-typescript/actions/workflows/demo.yml/badge.svg)](https://github.com/rodydavis/graphview-typescript/actions/workflows/demo.yml)
+[![Tests](https://github.com/imtiazthedev/graphview-typescript/actions/workflows/tests.yml/badge.svg)](https://github.com/rodydavis/graphview-typescript/actions/workflows/tests.yml)
+[![Demo](https://github.com/imtiazthedev/graphview-typescript/actions/workflows/demo.yml/badge.svg)](https://github.com/rodydavis/graphview-typescript/actions/workflows/demo.yml)
 
 Fork of [GraphView](https://github.com/imtiazthedev/graphview-typescript-master) targeting TypeScript.
 
